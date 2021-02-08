@@ -1,8 +1,8 @@
 # Hi there 👋
 
-# welcome to my github account 
+<h1> welcome to my github account </h1>
 
-# jangan insecure terus yuk gerak :)
+<h2> jangan insecure terus yuk gerak :) </h2>
 
 
 
