@@ -1,6 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 
-# hadeh bingung mau ngapain
+# welcome to my github account 
+
+# jangan insecure terus yuk gerak :)
+
 
 
 <!--
