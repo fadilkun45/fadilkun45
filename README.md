@@ -1,7 +1,9 @@
 
-<center><h1 > welcome to my github account </h1></center>
+><h1 > welcome to my github account </h1>
 
 <p> jangan insecure terus yuk gerak :) </p>
+
+<p> pasti bisa </p>
 
 
 
