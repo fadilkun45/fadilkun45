@@ -1,6 +1,5 @@
-# Hi there 👋
 
-<p> welcome to my github account </p>
+<h1 style = "text-align : center ; " > welcome to my github account </h1>
 
 <p> jangan insecure terus yuk gerak :) </p>
 
