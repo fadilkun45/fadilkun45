@@ -5,6 +5,9 @@
 
 <p> pasti bisa </p>
 
+[![🦉 Fadilkun45 github stats](https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&hide_border=true&hide=issues)](https://github.com/fadilkun45)
+[![🦉 Fadilkun45 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fadilkun45&hide_langs_below=1)](https://github.com/fadilkun45)
+
 
 ### my favourite language
 
