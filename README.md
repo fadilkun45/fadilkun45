@@ -15,7 +15,7 @@
 
 <!-- ![221177248_130420295928381_8606281469592495961_n](https://user-images.githubusercontent.com/59074036/133109621-20746302-13a0-4f44-868d-9061f06d4607.jpg) -->
 
-<img src="https://user-images.githubusercontent.com/59074036/133109621-20746302-13a0-4f44-868d-9061f06d4607.jpg" width="80%" height="50%">
+<img src="https://user-images.githubusercontent.com/59074036/133109621-20746302-13a0-4f44-868d-9061f06d4607.jpg" width="80%" height="50%" style="margin : auto ; ">
 
 
 <!--
