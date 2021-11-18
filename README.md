@@ -5,7 +5,7 @@
 
 <p> pasti bisa </p>
 
-[![🦉 Fadilkun45 github stats](https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&hide_border=true&hide=issues)](https://github.com/fadilkun45)
+  <img src="https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&include_all_commits=true&theme=monokai"  />
 
 
 ### my favourite language
