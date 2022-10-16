@@ -13,7 +13,7 @@
 
 ![CSS3](https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-efd81d?style=flat-square&logo=tailwindcss&logoColor=black)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-#3490dc?style=flat-square&logo=tailwindcss&logoColor=black)
 
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fadilkun45&theme=react-dark" />
 
