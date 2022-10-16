@@ -17,8 +17,6 @@
 
 <!-- ![221177248_130420295928381_8606281469592495961_n](https://user-images.githubusercontent.com/59074036/133109621-20746302-13a0-4f44-868d-9061f06d4607.jpg) -->
 
-![Snake animation](https://github.com/Isallkun/Isallkun/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only))
-
 <!--
 **fadilkun45/fadilkun45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
