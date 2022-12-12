@@ -3,9 +3,13 @@
 
 <p> Hari Hari Ngoding Brutal </p>
 
+ <div></div>
+ 
+  ![](https://github.com/fadilkun45/fadilkun45/blob/main/elaina-nod.gif)
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&include_all_commits=true&theme=monokai"  />
   
-  ![](https://github.com/fadilkun45/fadilkun45/blob/main/elaina-nod.gif)
   
   ![Profile views](https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen)
    
