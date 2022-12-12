@@ -5,7 +5,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&include_all_commits=true&theme=monokai"  />
   
-  <img src="https://tenor.com/view/elaina-nod-gif-25532943" />
+  ![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
   
   ![Profile views](https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen)
    
