@@ -8,7 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&include_all_commits=true&theme=monokai"  />
   
   
-  ![Profile views](https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen)
+  ![Profile views]([https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen](https://github.com/fadilkun45/fadilkun45/blob/main/elaina.gif)
    
 
 ### my favourite language
