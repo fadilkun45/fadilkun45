@@ -1,9 +1,7 @@
 
 <h1 align="center"> welcome to my github account </h1>
 
-<p> jangan insecure terus yuk gerak :) </p>
-
-<p> pasti bisa </p>
+<p> Hari Hari Ngoding Brutal </p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&include_all_commits=true&theme=monokai"  />
   
