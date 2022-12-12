@@ -1,5 +1,5 @@
-   ![align="center"](https://github.com/fadilkun45/fadilkun45/blob/main/elaina.gif)
-   
+   <center>![align="center"](https://github.com/fadilkun45/fadilkun45/blob/main/elaina.gif)</center>
+
    <h1 align="center"> Halo, Selamat datang 👋 </h1>
 
 <!--    <p> Hari Hari Ngoding Brutal </p>
