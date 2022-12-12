@@ -1,5 +1,7 @@
 
-<h1 align="center"> Selamat Datang </h1>
+<h1 align="center"> Halo, Selamat datang 👋 </h1>
+
+  <h4 align="center">❤️ Elaina</h4>
 
    ![align="center"](https://github.com/fadilkun45/fadilkun45/blob/main/elaina.gif)
 
@@ -16,7 +18,6 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-3490dc?style=flat-square&logo=tailwindcss&logoColor=black)
 
-  <h4 align="center">❤️ Elaina</h4>
 
 <!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fadilkun45&theme=react-dark" /> -->
 
