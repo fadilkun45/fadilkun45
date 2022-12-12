@@ -8,7 +8,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&include_all_commits=true&theme=monokai"  />
   
-  ![Profile views]([https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen](https://github.com/fadilkun45])
+  ![Profile views]([https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen])
    
 
 ### my favourite language
@@ -18,7 +18,7 @@
 ![Javascript](https://img.shields.io/badge/-React-efd81d?style=flat-square&logo=React&logoColor=black)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-3490dc?style=flat-square&logo=tailwindcss&logoColor=black)
 
-  <h4 align="center"> ❤️ Elaina</h4>
+  <h3> ❤️ Elaina</h3>
 
 
 <!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fadilkun45&theme=react-dark" /> -->
