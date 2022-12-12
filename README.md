@@ -1,4 +1,4 @@
-   <center>![align="center"](https://github.com/fadilkun45/fadilkun45/blob/main/elaina.gif)</center>
+  ![align="center"](https://github.com/fadilkun45/fadilkun45/blob/main/elaina.gif)
 
    <h1 align="center"> Halo, Selamat datang 👋 </h1>
 
