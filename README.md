@@ -6,9 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&include_all_commits=true&theme=monokai"  />
   
   ![Profile views](https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen)
-  
-    <img src="https://tenor.com/view/elaina-nod-gif-25532943"  /> 
-  
+   
 
 ### my favourite language
 
