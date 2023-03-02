@@ -9,7 +9,7 @@
 <!--   ![Profile views]([https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen]) -->
    
 
-### Stack
+### Technology
 
 ![CSS3](https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black)
