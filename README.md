@@ -16,7 +16,7 @@
 ![React](https://img.shields.io/badge/-React-3490dc?style=flat-square&logo=React&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-3490dc?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-3490dc?style=flat-square&logo=Typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Nodejs-7741c?style=flat-square&logo=Nodejs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Nodejs-7741c?style=flat-square&logo=NodJs&logoColor=white)
 
 
 
