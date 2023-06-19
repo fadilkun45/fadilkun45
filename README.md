@@ -11,12 +11,12 @@
 
 ## Technology
 
-![CSS3](https://img.shields.io/badge/-CSS-254bdd?style=flat-square&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/-CSS-254bdd?style=for-the-badge&logo=css3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=for-the-badge&logo=Javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-3490dc?style=flat-square&logo=tailwindcss&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-3490dc?style=flat-square&logo=Typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Nodejs-7741c?style=flat-square&logo=nodedotjs&logoColor=white)
+![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-3490dc?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3490dc?style=for-the-badge&logo=Typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-7741c?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 
 
