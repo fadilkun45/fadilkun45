@@ -15,6 +15,8 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-efd81d?style=flat-square&logo=Javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white)
 ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-3490dc?style=flat-square&logo=tailwindcss&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-61dafb?style=flat-square&logo=Typescript&logoColor=white)
+
 
 
 
