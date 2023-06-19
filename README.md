@@ -1,4 +1,4 @@
-  ![align="center"](https://github.com/fadilkun45/fadilkun45/blob/main/elaina.gif)
+ ![align="center"](https://github.com/fadilkun45/fadilkun45/blob/main/elaina.gif)
 
    <h1 align="center"> Halo, Selamat datang 👋 </h1>
 
@@ -8,7 +8,6 @@
   
 <!--   ![Profile views]([https://komarev.com/ghpvc/?username=fadilkun45&color=brightgreen]) -->
    
-
 ## Technology
 
 ![CSS3](https://img.shields.io/badge/-CSS-254bdd?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,17 +17,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-3490dc?style=for-the-badge&logo=Typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-7741c?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-
-
-
-
-
-
    <h3 align="center"> 2020 ❤️ Elaina</h3>
-<!-- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fadilkun45&theme=react-dark" /> -->
-
-<!-- ![221177248_130420295928381_8606281469592495961_n](https://user-images.githubusercontent.com/59074036/133109621-20746302-13a0-4f44-868d-9061f06d4607.jpg) -->
-
 <!--
 **fadilkun45/fadilkun45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
