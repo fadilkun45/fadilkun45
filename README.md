@@ -2,7 +2,7 @@
 
 <!--  <h1 align="center"> Halo, Selamat datang 👋 </h1> -->
 
-[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
+[![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://s.id/standwithpalestine)
 
  <img src="https://github-readme-stats.vercel.app/api?username=fadilkun45&show_icons=true&include_all_commits=true&theme=monokai"  />
    
